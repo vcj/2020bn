@@ -1,4 +1,4 @@
-## 2020 in Buffalo News Front Pages
+<img src="images/header.jpg?raw=true" target="_blank"/>
 
 ---
 
