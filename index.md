@@ -13,12 +13,12 @@ Well, not always. Not even half the time: of the 366 front pages of 2020, the Bi
 Tracking coverage of these two stories shows a fascinating (to me, an easily impressed dipshit) progression of how quickly the virus consumed our lives, from a few stock market related articles to, just a few weeks later total command of page A1 for months. It barely let up for the rest of the year. I don’t expect it to let up for a long time. 
 <br><br>
 What counts as a story? This was subjective. A story about former Bill Ryan Fitzpatrick still being appreciated by Bills fans? Yes, that counts. A story about how the Goo Goo Dolls are dealing with the pandemic? That did not. Those two stories were actually on the same day, September 20th.
-<img src="images/BN_Sept20.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/BN_Sept20.jpg', '_blank');" />
+<img src="images/BN_sept20.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/BN_sept20.JPG', '_blank');" />
 <br>
 The day after that makes a slightly better example, though. 
 <img src="images/example.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/example.jpg', '_blank');" />
 <br>
-What I did was just trace the block of space where each story was placed, red for Bills and blue for COVID-19, and make a note in a table as to what was covered that day. I then layered the blocks, at 10% opacity, for the entire year. Which looks like this.
+What I did was trace the block of space where each story was placed, red for Bills and blue for COVID-19, and make a note in a table as to what was covered that day. I then layered the blocks, at 10% opacity, for the entire year. Which looks like this.
 <img src="images/12.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/12.jpg', '_blank');" />
 <br>
 I also kept a timeline, just a simple binary yes-no as to whether the topic was present. Along with the timeline I and grouped the coverage by month, to give a sense of what Buffalo News coverage of the Bills and the virus looked like for those 29-31 days. It's a big chart! 
