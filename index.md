@@ -4,7 +4,7 @@ I grew up on the same block as Bills stadium in Orchard Park, New York (I’ve s
 <br><br>
 Though I no longer live there, I still subscribe to the Buffalo News and get a digital copy of the paper in my inbox. Every day as part of my morning routine, I take a look at the top stories in my hometown. I’ve been a subscriber for a while and noticed a pattern of sorts: no matter what time of year, the Bills are a front page mainstay.  It's not a pattern I see on the other paper I subscribe to and read daily, the Washington Post. But to Buffalonians, it is normal. Take the paper the day after the mob stormed the Capitol:
 <img src="images/jan7bn.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/jan7bn.JPG', '_blank');" />
-Only two topics made the front pagey, the riot and Josh Allen.
+Only two topics made the front page, the riot and Josh Allen.
 <br><br>
 The best way to explain it to outsiders is, I think, when you’re flying to Buffalo, you can find your gate simply by the congregation of red and blue apparel. When you land at BUF, you are greeted by a large photo of Josh Allen*. Everyone's love language is asking a stranger in the checkout line at Wegmans, "How about those Bills?" My contrarian dad wore a Dolphins hat once and the guy at the Kwik Fill refused to sell him a stamp. Not to generalize an entire city, but we love our Bills. It does not really matter how good or bad they are. They are ours, and we will loudly boo you for even mentioning Jon Bon Jovi. Yes, I am being facetious when I call the Bills being good the year's major story, but only lightly.
 <br><br>
