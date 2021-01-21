@@ -14,10 +14,10 @@ Tracking coverage of these two stories shows a fascinating (to me, an easily imp
 <br><br>
 What counts as a story? This was subjective. A story about former Bill Ryan Fitzpatrick still being appreciated by Bills fans? Yes, that counts. A story about how the Goo Goo Dolls are dealing with the pandemic? That did not. Those two stories were actually on the same day, September 20th.
 <img src="images/BN_sept20.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/BN_sept20.JPG', '_blank');" />
-<br>
+<br><br>
 The day after that makes a slightly better example, though. 
 <img src="images/example.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/example.jpg', '_blank');" />
-<br>
+<br><br>
 What I did was trace the block of space where each story was placed, red for Bills and blue for COVID-19, and make a note in a table as to what was covered that day. I then layered the blocks, at 10% opacity, for the entire year. Which looks like this.
 <img src="images/12.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/12.jpg', '_blank');" />
 <br>
