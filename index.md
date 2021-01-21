@@ -14,11 +14,13 @@ What counts as a story? This was subjective. A story about former Bill Ryan Fitz
 <br>
 
 What I did was just trace the block of space where each story was placed, red for Bills and blue for COVID-19, and make a note in a table as to what was covered that day. I then layered the blocks, at 10% opacity and grouped by month, to give a sense of what a month in Buffalo News coverage of the Bills and the virus looked like for those 29-31 days. I also kept a timeline, just a simple binary yes-no as to whether the topic was present. 
-
+<br>
 Before the big chart, couple notes. First, the bar at the top is apparently called a ‘teaser.’ It consists just of a small photo, headline, and sometimes a subhead. It's where many of the Bills stories were over the year. Even though it's not really a full story I did count it because I was looking at the whole page and also at the top it's quite eye-catching. It was also eliminated almost entirely for the months of April and May, presumably to make more room for pandemic news. Second, you will note on the timeline that specific events are usually highlighted the day after they happened. That's because that's when they'd be printed in the paper. Seems obvious, but it threw me the first time. 
-
+<br>
 Okay here's the big chart. If you click it'll open in a new tab
 <img src="images/full.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/full.jpg', '_blank');" />
+
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
