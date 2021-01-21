@@ -20,6 +20,7 @@ Before the big chart, couple notes. First, the bar at the top is apparently call
 Okay here's the big chart. If you click it'll open in a new tab
 <img src="images/full.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/full.jpg', '_blank');" />
 
+Thanks to <a href="https://twitter.com/KatieKowalsky" target="_blank">Katie Kowalsky</a> and <a href="https://twitter.com/DylanMoriarty" target="_blank">Dylan Moriarty</a> for some solid data viz advice and <a href="https://twitter.com/sarahbellmaps" target="_blank">Sarah Bell</a> for the <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/" target="_blank">excellent typeface</a>. And thanks to you for reading! 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
