@@ -16,6 +16,7 @@ What counts as a story? This was subjective. A story about former Bill Ryan Fitz
 <img src="images/BN_sept20.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/BN_sept20.JPG', '_blank');" />
 <br><br>
 The day after that makes a slightly better example, though. 
+<br><br>
 <img src="images/example.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/example.jpg', '_blank');" />
 <br><br>
 What I did was trace the block of space where each story was placed, red for Bills and blue for COVID-19, and make a note in a table as to what was covered that day. I then layered the blocks, at 10% opacity, for the entire year. Which looks like this.
