@@ -23,7 +23,7 @@ The day after that makes a slightly better example, though.
 <br><br>
 <img src="images/example.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/example.jpg', '_blank');" />
 <br><br>
-What I did was trace the block of space where each story was placed, red for Bills and blue for COVID-19, and make a note in a table as to what was covered that day. I then layered the blocks, at 10% opacity, for the entire year. Which looks like this.
+What I did was trace the block of space where each story was placed, red for Bills and blue for COVID-19, and made a note in a table as to what was covered that day. I then layered the blocks, at 10% opacity, for the entire year. Which looks like this.
 <img src="images/12.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/12.jpg', '_blank');" />
 <br>
 I also kept a timeline, just a simple binary yes-no as to whether the topic was present. Alongside the timeline I grouped the coverage by month, to give a sense of what Buffalo News coverage of the Bills and the virus looked like, spatially, for those 29-31 days. It's a big chart! 
