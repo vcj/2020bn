@@ -2,7 +2,7 @@
 <br>
 I grew up on the same block as Bills stadium in Orchard Park, New York (I’ve skinned my knees in the gravel parking lot often enough for Bills fandom to be probably literally in my blood), and I am typing this while wearing a 1990 AFC Champs sweatshirt, so I hope that is sufficient to convince you that I am not here to poke fun at Buffalo, the Bills, or the city’s only major newspaper. 
 <br><br>
-Though I no longer live there, I still subscribe to the Buffalo News and get a digital copy of the paper in my inbox. Every day as part of my morning routine, I take a look at the top stories in my hometown. I’ve been a subscriber for a while and noticed a pattern of sorts: no matter what time of year, the Bills are a front page mainstay.  It's not a pattern I see on the other paper I subscribe to and read daily, the Washington Post. But to Buffalonians, it is normal. Take the paper the day after the mob stormed the Capitol:
+Though I no longer live there, I still subscribe to the Buffalo News and get a digital copy of the paper in my inbox. Every day as part of my morning routine, I take a look at the top stories in my hometown. I’ve been a subscriber for a while and noticed a pattern of sorts: no matter what time of year, the Bills are a front page mainstay.  It's not a pattern I see on the other papers I regularly read. But to Buffalonians, it is normal. Take the paper the day after the mob stormed the Capitol:
 <img src="images/jan7bn.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/jan7bn.JPG', '_blank');" />
 Only two topics made the front page, the riot and Josh Allen.
 <br><br>
@@ -14,7 +14,7 @@ Starting January 1, 2020, I thought it might be a hoot to track how often the Bi
 Well, not always. Not even half the time: of the 366 front pages of 2020, the Bills were on 179 for a shockingly low 48.9%. And there was a huge lull in April and May. Of course, the Bills being suddenly good at football was not the only thing that happened in 2020. There is also an ongoing global pandemic. 
 <img src="images/bothchart.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/bothchart.jpg', '_blank');" />
 <br>
-Tracking coverage of these two stories shows a fascinating (to me, an easily impressed dipshit) progression of how quickly and completely the virus consumed our lives and our consciousness, from a few stock market related articles to, just a few weeks later, total command of page A1 for months. It barely let up for the rest of the year. I don’t expect it to let up for a long time. 
+Tracking coverage of these two stories shows a fascinating (to me, ymmv) progression of how quickly and completely the virus consumed our lives and our consciousness, from a few stock market related articles to, just a few weeks later, total command of page A1 for months. It barely let up for the rest of the year. I don’t expect it to let up for a long time. 
 <br><br>
 What counts as a story? This was subjective. A story about former Bill Ryan Fitzpatrick still being appreciated by Bills fans? Yes, that counts. A story about how the Goo Goo Dolls are dealing with the pandemic? That did not. Those two stories were actually on the same day, September 20th.
 <img src="images/BN_sept20.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/BN_sept20.JPG', '_blank');" />
