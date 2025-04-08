@@ -11,10 +11,10 @@ The best way to explain it to outsiders is, I think, when you’re flying to Buf
 Starting January 1, 2020, I thought it might be a hoot to track how often the Bills were on the front page of the Buffalo News, and what that coverage looked like. Because the Bills were always there! 
 <img src="images/billschart.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/billschart.jpg', '_blank');" />
 <br>
-Well, not always. Not even half the time: of the 366 front pages of 2020, the Bills were on 179 for a shockingly low 48.9%. And there was a huge lull in April and May. Of course, the Bills being suddenly good at football was not the only thing that happened in 2020. There is also an ongoing global pandemic. 
+Well, not always. Not even half the time: of the 366 front pages of 2020, the Bills were on 179 for a shockingly low 48.9%. And there was a huge lull in April and May. Of course, the Bills being suddenly good at football was not the only thing that happened in 2020. There was also the pandemic. 
 <img src="images/bothchart.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/bothchart.jpg', '_blank');" />
 <br>
-Tracking coverage of these two stories shows a fascinating (to me, ymmv) progression of how quickly and completely the virus consumed our lives and our consciousness, from a few stock market related articles to, just a few weeks later, total command of page A1 for months. It barely let up for the rest of the year. I don’t expect it to let up for a long time. 
+Tracking coverage of these two stories shows a fascinating (to me, ymmv) progression of how quickly and completely the virus consumed our lives and our consciousness, from a few stock market related articles to, just a few weeks later, total command of page A1 for months. It barely let up for the rest of the year. 
 <br><br>
 What counts as a story? This was subjective. A story about former Bill Ryan Fitzpatrick still being appreciated by Bills fans? Yes, that counts. A story about how the Goo Goo Dolls are dealing with the pandemic? That did not. Those two stories were actually on the same day, September 20th.
 <img src="images/BN_sept20.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/BN_sept20.JPG', '_blank');" />
@@ -35,7 +35,6 @@ Okay here's the big chart. If you click it'll open in a new tab
 
 Thanks to <a href="https://twitter.com/KatieKowalsky" target="_blank">Katie Kowalsky</a> and <a href="https://twitter.com/DylanMoriarty" target="_blank">Dylan Moriarty</a> for some solid data viz advice and <a href="https://twitter.com/sarahbellmaps" target="_blank">Sarah Bell</a> for the <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/" target="_blank">excellent typeface</a>. And thanks to you for reading! 
 <br><br>
-*you are also greeted suspiciously often with the Goo Goo Dolls on the airport loudspeaker but that’s a data project for another day
 
 
 ---
