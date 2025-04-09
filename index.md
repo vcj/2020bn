@@ -2,7 +2,7 @@
 <br>
 I grew up on the same block as Bills stadium in Orchard Park, New York (I’ve skinned my knees in the gravel parking lot often enough for Bills fandom to be probably literally in my blood), and I am typing this while wearing a 1990 AFC Champs sweatshirt, so I hope that is sufficient to convince you that I am not here to poke fun at Buffalo, the Bills, or the city’s only major newspaper. 
 <br><br>
-Though I no longer live there, I still subscribe to the Buffalo News and get a digital copy of the paper in my inbox. Every day as part of my morning routine, I take a look at the top stories in my hometown. I’ve been a subscriber for a while and noticed a pattern of sorts: no matter what time of year, the Bills are a front page mainstay.  It's not a pattern I see on the other papers I regularly read. But to Buffalonians, it is normal. Take the paper the day after the mob stormed the Capitol:
+Though I no longer live there, I still subscribe to the Buffalo News and get a digital copy of the paper in my inbox. Every day as part of my morning routine, I take a look at the top stories in my hometown. I’ve been a subscriber for a while and noticed a pattern of sorts: no matter what time of year, the Bills are a front page mainstay.  It's not a pattern I see with regards to local sports in the other papers I regularly read. But to Buffalonians, it is normal. Take the paper the day after the mob stormed the Capitol:
 <img src="images/jan7bn.JPG?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/2020bn/master/images/jan7bn.JPG', '_blank');" />
 Only two topics made the front page, the riot and Josh Allen (click to enlarge images in a new tab).
 <br><br>
